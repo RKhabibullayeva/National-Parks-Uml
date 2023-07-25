@@ -14,6 +14,7 @@ draw.io is used for this project.
 
 ## Usage
 National Parks Uml.jpg
+[My GitHub](https://github.com/RKhabibullayeva/National-Parks-Uml.git)
 ```
 ./my_project National Parks Uml.drawio
 ```
